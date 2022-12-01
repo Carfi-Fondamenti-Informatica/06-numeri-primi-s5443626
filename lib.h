@@ -1,4 +1,4 @@
 
-int numeroprimo(int,int)
+int numeroprimo(int,int);
 
 
