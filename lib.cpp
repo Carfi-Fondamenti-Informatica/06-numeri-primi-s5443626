@@ -1,6 +1,4 @@
-//
-// Created by micma on 01/12/2022.
-//
+#include "lib.h"
 int numeroprimo(int a,int b){
     bool x=true;
     if (b!=1){
@@ -14,4 +12,3 @@ int numeroprimo(int a,int b){
         x=true;
     }return x;
 }
-#include "lib.h"
