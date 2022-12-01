@@ -6,7 +6,7 @@ int main() {
     cin >> a;
     int b=(a-1);
     if(numeroprimo (a,b)==true){
-        cout << "il numero è primo";
+        cout << "numero primo";
     } else if (numeroprimo(a,b)==false){
-        cout << "il numero non è primo";
+        cout << "numero non primo";
     }
